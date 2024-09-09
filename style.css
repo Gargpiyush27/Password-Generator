@@ -194,20 +194,6 @@ h1{
     letter-spacing: 0.75px;
 } 
 
-
-@media (max-width: 480px) {
-    .check {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-    
-    .check label {
-        font-size: 0.9rem; 
-        margin-top: 0.5rem; 
-    }
-}
-
-
 .copyBtn{
     background-color: transparent;
     border:none;
