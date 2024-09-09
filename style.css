@@ -156,7 +156,6 @@ h1{
     align-items: center;
     margin: 1rem 0;
     gap: 0 0.75rem; 
-    flex-wrap: wrap;
 }
 
 .check input {
@@ -190,7 +189,7 @@ h1{
 
 .check label {
     color: var(--pl-white);
-    font-size: 1.25rem;
+    font-size: 1.05rem;
     letter-spacing: 0.75px;
 } 
 
